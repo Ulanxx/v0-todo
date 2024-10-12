@@ -1,5 +1,5 @@
-import { TechPixelTodoList } from "@/components/tech-pixel-todo-list"
+import { RetroTerminalTodoList } from "@/components/retro-terminal-todo-list"
 
 export default function Page() {
-  return <TechPixelTodoList />
+  return <RetroTerminalTodoList />
 }

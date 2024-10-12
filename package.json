@@ -1,5 +1,5 @@
 {
-  "name": "todo",
+  "name": "todo-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,12 +10,10 @@
   },
   "dependencies": {
     "@radix-ui/react-icons": "^1.3.0",
-    "@radix-ui/react-select": "^2.1.2",
-    "@radix-ui/react-slot": "^1.1.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "framer-motion": "^11.11.8",
-    "lucide-react": "^0.452.0",
+    "lucide-react": "^0.451.0",
     "next": "14.2.15",
     "react": "^18",
     "react-dom": "^18",
